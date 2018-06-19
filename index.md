@@ -14,3 +14,5 @@
 
 ©GlitchHøp 2018
 <hr>
+<body style="background-color:red;">
+</body>
