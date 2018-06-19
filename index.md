@@ -11,5 +11,6 @@
 • And More!
 <hr>
 ©Rhinestone Games 2014-2018
+
 ©GlitchHøp 2018
 <hr>
