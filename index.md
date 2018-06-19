@@ -1,21 +1,6 @@
 <!-- HTML Code -->
 <a href="https://www.youtube.com/channel/UCAM7D3Q2n9t_W2gn2ME1jJg" target="_self"><img src="https://i.imgur.com/8InRzkL.png" alt="Rhinestone Games" class="GeneratedImage"></a>
-
 <!DOCTYPE html>
 <html>
 <head>
-<!-- HTML Codes by Quackit.com -->
-<title>
-</title>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-body {background-color:#ffffff;background-repeat:no-repeat;background-position:top left;background-attachment:fixed;}
-h1{font-family:Arial, sans-serif;font-variant:small-caps;color:#000000;background-color:#ffffff;}
-p {font-family:Georgia, serif;font-size:14px;font-style:normal;font-weight:normal;color:#000000;background-color:#ffffff;}
-</style>
-</head>
-<body>
-<h1>The Official Page of Rhinestone Games!</h1>
-<p></p>
-</body>
-</html>
+<p>Rhinestone Games is an indie game development team run by two friends by the names of Jackson G. and Ryan L. (GlitchHøp), as well as many other individuals from around the world.</p>
