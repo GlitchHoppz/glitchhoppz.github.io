@@ -2,3 +2,4 @@
 <hr>
 <b><i><p>Rhinestone Games is an indie game development team run by two friends by the names of Jackson G. and Ryan L. (GlitchHøp), as well as many other individuals from around the world.</p></i></b>
 <hr>
+<img src="https://i.imgur.com/nLMZzok.png" alt="Software We Use" class="GeneratedImage">
